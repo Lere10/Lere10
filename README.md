@@ -21,7 +21,7 @@ A **Web developer** 🚀 from Fortaleza, Brazil 🇧🇷.
 - 👨🏽‍💻 I’m currently looking for intern and junior opportunities.
 - 🌳 Meanwhile, I have been working on some personal projects and freelance jobs. 
 - 🌱 I’m currently exploring Node.js and Express.js, looking foward to get in touch with Vue and Angular soon. 
-- 💼 Digital systems & media degree @ Federal University of Ceara.
+- 👨‍🎓 Digital systems & media degree @ Federal University of Ceara.
 - 📐 I'm a former designer with 4 years experience in UX/UI and Graphic design.
 - ✍️ Currently in 15/19 sprint bootcamp of TripleTen WebDevelopment school.
 - 💬 Ask me about anything!
