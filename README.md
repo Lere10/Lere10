@@ -23,7 +23,7 @@ A **Web developer** 🚀 from Fortaleza, Brazil 🇧🇷.
 - 🌱 I’m currently exploring Node.js and Express.js, looking foward to get in touch with Vue and Angular soon. 
 - 💼 Digital systems & media degree @ Federal University of Ceara.
 - 📐 I'm a former designer with 4 years experience in UX/UI and Graphic design.
-- ✍️ Currently in 15/19 sprint bootcamp of TripleTen WebDevelop school.
+- ✍️ Currently in 15/19 sprint bootcamp of TripleTen WebDevelopment school.
 - 💬 Ask me about anything!
 - 📫 Email me at [leredsb10@gmail.com](mailto:leredsb10@gmail.com).
 - 📝 See my [Resume](https://drive.google.com/file/d/1qbDLUopOXW6cQHfN-8gr9e1tn2_Yx7nf/view?usp=drive_link) to get more info.
