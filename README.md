@@ -18,8 +18,8 @@ A **Web developer** 🚀 from Fortaleza, Brazil 🇧🇷.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently looking for intern and junior opportunities.
-- 🌳 Meanwhile, I have been working on some personal projects and freelance jobs. 
+- 👨🏽‍💻 I’m currently working as developer manager in V7X business School.
+- 🌳 In my free time I have been working on some personal projects and freelance jobs. 
 - 🌱 I’m currently exploring Node.js and Express.js, looking forward to getting started with Vue and Angular soon.
 - 👨‍🎓 Digital systems & media degree @ Federal University of Ceara.
 - 📐 I'm a former designer with experience in UX/UI and Graphic design.
