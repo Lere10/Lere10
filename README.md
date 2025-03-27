@@ -26,7 +26,7 @@ A **Web developer** 🚀 from Fortaleza, Brazil 🇧🇷.
 - ✍️ Currently in 18/19 sprint bootcamp of TripleTen WebDevelopment school.
 - 💬 Ask me about anything!
 - 📫 Email me at [leredsb10@gmail.com](mailto:leredsb10@gmail.com).
-- 📝 See my [Resume](https://drive.google.com/file/d/1IveDgjp8HAbRvMuAEj0-S4dfJ6A0XGqb/view) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1plm3qz80XsyVFn63Mh4RV__HXnT1JpBS/view?usp=sharing) to get more info.
 
 
 **Languages and Tools:**  
