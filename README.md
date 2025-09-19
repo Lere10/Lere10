@@ -18,12 +18,12 @@ A **Web developer** 🚀 from Fortaleza, Brazil 🇧🇷.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as Full Stack Developer in SOP.
-- 🌳 In my free time I have been working on some personal projects and freelance jobs. 
-- 🌱 I’m currently exploring Java and Next.js, looking forward to getting started with Vue and Angular soon.
+- 👨🏽‍💻 I’m currently working as Full Stack Developer in SOP. We use GitLab there so it is a bit abandoned here haha.
+- 🌳 In my free time I have been working on some personal projects and studying. 
+- 🌱 I’m currently exploring Java and Next, looking forward to getting started with Vue and Angular soon.
 - 👨‍🎓 Digital systems & media degree @ Federal University of Ceara.
 - 📐 I'm a former designer with experience in UX/UI and Graphic design.
-- ✍️ Currently in 18/19 sprint bootcamp of TripleTen WebDevelopment school.
+- ✍️ Former bootcamp student of TripleTen WebDevelopment school.
 - 💬 Ask me about anything!
 - 📫 Email me at [leredsb10@gmail.com](mailto:leredsb10@gmail.com).
 - 📝 See my [Resume](https://drive.google.com/file/d/1plm3qz80XsyVFn63Mh4RV__HXnT1JpBS/view?usp=sharing) to get more info.
